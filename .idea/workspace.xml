@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b490d3fc-10b3-4458-85a8-23b7456526a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="D:\apache-maven-3.5.3\repo" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1a1nRABmjN3dJWJ8S9YiOguyND3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.appclient.AppMain" />
+      <module name="log-collector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.appclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wuhui.dw.flume.test" />
+      <module name="ETLInterceptor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wuhui.dw.flume.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.AppMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b490d3fc-10b3-4458-85a8-23b7456526a2" name="Default Changelist" comment="" />
+      <created>1585911957138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585911957138</updated>
+      <workItem from="1585911964128" duration="1402000" />
+      <workItem from="1585989374503" duration="10423000" />
+      <workItem from="1598693383543" duration="94000" />
+      <workItem from="1598693505331" duration="7271000" />
+      <workItem from="1598715604838" duration="107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="216" key="FileChooserDialogImpl" timestamp="1598693451496">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="216" key="FileChooserDialogImpl/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1598693451496" />
+    <state x="2456" y="116" key="SettingsEditor" timestamp="1598700142874">
+      <screen x="2160" y="0" width="1920" height="1040" />
+    </state>
+    <state x="222" y="103" key="SettingsEditor/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1598693478905" />
+    <state x="2456" y="116" key="SettingsEditor/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1598700142874" />
+    <state x="23" y="163" key="new project wizard" timestamp="1598700268740">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="23" y="163" key="new project wizard/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1598700268740" />
+  </component>
+</project>

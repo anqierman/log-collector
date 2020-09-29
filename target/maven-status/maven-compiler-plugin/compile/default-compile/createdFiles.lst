@@ -1,0 +1,16 @@
+com\atguigu\bean\AppBase.class
+com\atguigu\appclient\AppMain.class
+com\atguigu\bean\AppStart.class
+com\atguigu\test\Hello.class
+com\atguigu\bean\AppAd.class
+com\atguigu\bean\AppLoading.class
+com\atguigu\bean\AppActive_background.class
+com\atguigu\bean\AppNotification.class
+com\atguigu\bean\AppErrorLog.class
+com\atguigu\test\Person.class
+com\atguigu\bean\AppActive_foreground.class
+com\atguigu\bean\AppDisplay.class
+com\atguigu\bean\AppFavorites.class
+com\atguigu\bean\AppComment.class
+com\atguigu\bean\AppNewsDetail.class
+com\atguigu\bean\AppPraise.class
